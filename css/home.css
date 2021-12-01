@@ -14,6 +14,8 @@
 .navbar-light .navbar-nav .nav_posts {
     color: rgba(0,0,0,.55);
 }
+/* CSS for main */
+body{
+    margin-top: 96px;
+}
 
-
-/* CSS for footer */
